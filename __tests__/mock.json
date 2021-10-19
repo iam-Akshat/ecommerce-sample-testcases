@@ -1,0 +1,8 @@
+{
+    "users":{
+        "normalUser":{"email":"nor@mal.com","password":"123456","fullName":"normal user"},
+        "admin":{"email":"ad@mk.in","password":"123456","fullName":"admin user"}
+    },
+    "categories":[{"name":"Bags"}],
+    "products":[{"name":"Tote Bag","quantity":60,"price":50.5},{"name":"Guccie Bag","quantity":20,"price":225}]
+}
